@@ -44,9 +44,9 @@ The following online resources were used to **search, verify, and download PCB c
 
 This repository includes the following fabrication-ready files:
 
-- **Gerber Files** – Copper layers, solder mask, silkscreen  
-- **NC Drill Files (.DRR)** – Drill data for vias and holes  
-- **Drill Reports (.TXT)** – Hole size and count information  
+- **Gerber Files** - Copper layers, solder mask, silkscreen  
+- **NC Drill Files (.DRR)** - Drill data for vias and holes  
+- **Drill Reports (.TXT)** - Hole size and count information  
 
 ---
 
