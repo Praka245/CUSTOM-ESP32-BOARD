@@ -30,15 +30,10 @@ The design follows standard PCB design practices and is intended for **learning,
 The following online resources were used to **search, verify, and download PCB components, footprints, symbols, and 3D models**:
 
 1. **Digi-Key**  
-
 2. **LCSC**
-   
 3. **Molex**  
-
 4. **SnapEDA / SnapEDA Magic**
-   
 5. **Ultra Librarian** 
-
 6. **3D ContentCentral**
 
 **Note:**  
