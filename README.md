@@ -36,8 +36,7 @@ The following online resources were used to **search, verify, and download PCB c
 5. **Ultra Librarian** 
 6. **3D ContentCentral**
 
-**Note:**  
-For 3D visualization and mechanical verification, **STEP (.stp) files** were downloaded and used.
+**Note:** For 3D visualization and mechanical verification, **STEP (.stp) files** were downloaded and used.
 
 ---
 
