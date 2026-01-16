@@ -220,13 +220,7 @@ This project features a custom ESP32-based PCB designed for learning and prototy
 
 ---
 
-## 📜 License
-
-This project is for **Educational Purpose alone**.
-
----
-
-## 🙋‍♂️ Author
+### 🙋‍♂️ CONTRIBUTOR
 
 **Prakadeesh N**  
 Electronics and Communication Engineering (ECE)  
